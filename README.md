@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=spaceboy6561)](https://git.io/typing-svg)
-C++ Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace&duration=5002&pause=1000&color=F7F7F7&width=435&lines=spaceboy6561)](https://git.io/typing-svg)
+
